@@ -140,13 +140,6 @@
             ],
             "version": "==0.4.0"
         },
-        "guppy": {
-            "hashes": [
-                "sha256:00118c000e451063ea16bb6a3b52632d10960c44c0014553c287dce5c03813df"
-            ],
-            "index": "pypi",
-            "version": "==0.1.10"
-        },
         "hyperlink": {
             "hashes": [
                 "sha256:4288e34705da077fada1111a24a0aa08bb1e76699c9ce49876af722441845654",
